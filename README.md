@@ -19,7 +19,7 @@ Users are able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/shre0032/mtm6407-frontend-mentor-shre0032)
-- Live Site URL: [Live View](https://whimsical-medovik-963d3e.netlify.app/)
+- Live Site URL: [Live View](https://aesthetic-cendol-ecfcbf.netlify.app/)
 
 ## My Process
 
